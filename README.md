@@ -1,10 +1,4 @@
 Hi there 👋   
-<a href="https://github.com/mummhy0811/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mummhy0811&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/mummhy0811/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mummhy0811&repo=convoychat" />
-</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mummhy0811&show_icons=true&theme=dracula&hide=issues,stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mummhy0811&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--

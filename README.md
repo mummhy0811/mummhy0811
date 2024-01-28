@@ -3,9 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mummhy0811&show_icons=true&theme=dracula&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mummhy0811&layout=compact&theme=dracula)
 
-<br/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mummhy0811&title=MultiLanguage,Commits,Organizations,PullRequest,Repositories,Reviews&column=5&theme=onedark)
 
 <br/>
 

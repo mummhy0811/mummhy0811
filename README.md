@@ -1,12 +1,23 @@
-<div align="center">  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mummhy0811&show_icons=true&theme=dracula&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mummhy0811&layout=compact&theme=dracula)
+## 문혜영 (Hailey)
+#### Back-end Developer 🔥
+> Java, Spring Boot, MySQL
 
+🐱 **Github** | https://github.com/mummhy0811   
+📧 **Email |** [mummhy0811@gmail.com](mailto:mummhy0811@gmail.com)
 
 <br/>
 
-![streak](https://github-readme-streak-stats.herokuapp.com?user=mummhy0811&theme=cobalt&ring=e05397&fire=e05397)
+#### 📊 Github Stats
+<div>  
+  
+![streak](https://github-readme-streak-stats.herokuapp.com?user=mummhy0811&theme=ambient_gradient)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mummhy0811&show_icons=true&theme=ambient_gradient)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mummhy0811&layout=compact&theme=ambient_gradient)
+
+
+
+<br/>  -->
 
 </div>
 <!--

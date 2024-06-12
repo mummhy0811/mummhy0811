@@ -16,13 +16,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="25" height="25" /> Activities
 
-- 국내외 여행 특화 모임 통장 서비스, [ [하나로 모여](https://dawonny.tistory.com/470)] 개발 <sup>2024.05.10 ~ 2024.06.12
-- Digital Hana 路 키오스크 자유주제 미니 프로젝트 - [ [스벅 키오스크](https://dawonny.tistory.com/470)] 개발 <sup>2024.04.26 ~ 2024.05.09
+- 국내외 여행 특화 모임 통장 서비스, [ [하나로 모여](https://github.com/Hanaro-trip-together-bank)] 개발 <sup>2024.05.10 ~ 2024.06.12
+- Digital Hana 路 키오스크 자유주제 미니 프로젝트 - [ [스벅 키오스크](https://github.com/Digital-Hana-Starbucks)] 개발 <sup>2024.04.26 ~ 2024.05.09
 - 하나은행 개발자 교육 - Digital Hana 路 금융서비스개발 3기 🏫 <sup>2024.01 ~ ing
-- AI 기반 가족 소통 유도 서비스, [ [한 걸음](https://dawonny.tistory.com/470)] 개발 🎖️ <sup>2023.09 ~ 2023.12
-- 자립 준비 청년을 위한 식자재 기부 서비스, [ [모두의 한 끼](https://dawonny.tistory.com/470)] 개발 <sup>2023.07 ~ 2023.09
-- 맛집 속 내 자리를 찾아주는 앱, [ [내 자리 내놔](https://dawonny.tistory.com/470)] 개발 <sup>2022.09 ~ 2023.05 
-- 안전한 새 친구 사귀기 앱, [ [FINE](https://dawonny.tistory.com/470)] 개발 🎖️ <sup>2022-05 * 2022-12
+- AI 기반 가족 소통 유도 서비스, [ [한 걸음](https://github.com/ForOneStep)] 개발 🎖️ <sup>2023.09 ~ 2023.12
+- 자립 준비 청년을 위한 식자재 기부 서비스, [ [모두의 한 끼](https://github.com/Spoonsors)] 개발 <sup>2023.07 ~ 2023.09
+- 맛집 속 내 자리를 찾아주는 앱, [ [내 자리 내놔](https://github.com/INU-OnlyOne)] 개발 <sup>2022.09 ~ 2023.05 
+- 안전한 새 친구 사귀기 앱, [ [FINE](https://github.com/yeon2lee/FINE-Frontend)] 개발 🎖️ <sup>2022-05 * 2022-12
 
 <!--
 

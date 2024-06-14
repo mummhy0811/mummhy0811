@@ -16,7 +16,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="25" height="25" /> Activities
 
-- 국내외 여행 특화 모임 통장 서비스, [ [하나로 모여](https://github.com/Hanaro-trip-together-bank)] 개발 <sup>2024.05.10 ~ 2024.06.12
+- 국내외 여행 특화 모임 통장 서비스, [ [하나로 모여](https://github.com/Hanaro-trip-together-bank)] 개발 🎖️ <sup>2024.05.10 ~ 2024.06.12
 - Digital Hana 路 키오스크 자유주제 미니 프로젝트 - [ [스벅 키오스크](https://github.com/Digital-Hana-Starbucks)] 개발 <sup>2024.04.26 ~ 2024.05.09
 - 하나은행 개발자 교육 - Digital Hana 路 금융서비스개발 3기 🏫 <sup>2024.01 ~ ing
 - AI 기반 가족 소통 유도 서비스, [ [한 걸음](https://github.com/ForOneStep)] 개발 🎖️ <sup>2023.09 ~ 2023.12

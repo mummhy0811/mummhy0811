@@ -1,4 +1,4 @@
-## 문혜영 (Hailey)
+<!-- ## 문혜영 (Hailey) -->
 #### Back-end Developer 🔥
 
 
@@ -11,7 +11,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,ts,react,idea,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,kotlin,ts,react,idea,github,githubactions)](https://skillicons.dev)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="25" height="25" /> Activities
